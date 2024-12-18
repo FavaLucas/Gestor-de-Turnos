@@ -1,0 +1,23 @@
+.formLogin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width:fit-content;
+  padding: 30px;
+  height: 160px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin:0;
+}
+
+h2 {
+  margin: 0;
+}
+
+
+.input {
+  display: block;
+  background-color: rgb(202, 199, 199);
+  margin: 2px;
+}

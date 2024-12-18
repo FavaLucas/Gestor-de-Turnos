@@ -1,0 +1,84 @@
+.div-pageNadador {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+
+}
+
+.titulo1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px;
+  align-items: center;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.titulo1 h1 {
+  margin: 0;
+}
+
+.titulo1 button {
+  background-color: #ff4d4d;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+.div-main {
+  width: 70%;
+}
+
+.subtitulo2 {
+  margin: 5px 0 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.subtitulo3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subtitulo2 h2,
+h3 {
+  margin: 0 10px 0 10px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+h1 {
+  margin: 0;
+}
+
+.cuadroygrilla {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  background-color: #007bff;
+  border: none;
+  max-height: 80px;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 8px;
+  min-width: 150px;
+}
