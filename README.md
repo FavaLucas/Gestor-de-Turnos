@@ -1,7 +1,18 @@
-# GestorTurnos
-Turnos para Natatorio del Club Atlerico Estudiantes de Olavarria
+# Prueba de Concepto - Gestor de Turnos - Club Atlético Estudiantes de Olavarría
 
-Instrucciones para correr el proyecto localmente:
+Prueba de Concepto Frontend + Backend + Base de Datos.
+
+Forme parte de una dupla de desarrollo este proyecto donde trabajamos en la implementación de un sistema de gestión de turnos orientado a la reducción de tiempos de los diferentes usuarios.
+
+Permite a los nadadores reservar turnos en línea de manera ágil y rápida evitando que tengan que gestionar de forma presencial.
+Posibilita que los profesores obtengan reducción en la carga de trabajo.
+Facilita a los Administradores la gestión de los usuarios por medio del panel de ABM.
+
+Roles de Usuario, Profesor y Admin con validaciones por JWT y Bcrypt.
+
+Tecnologías: React.js, Nest.js, Node.js, Axios, MySQL, JWT, Moment.js, Bcrypt.
+
+# Instrucciones para correr el proyecto localmente:
 
 1- Clonar el repositorio desde GitHub utilizando el link: https://github.com/FavaLucas/Gestor-de-Turnos.git
 
